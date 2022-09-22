@@ -7,7 +7,7 @@
 🤝 Busco dicas e ajuda para melhorar meus códigos, projetos e melhor me desenvolver<br>
 💯 Disposto à troca de conhecimentos<br>
 
-#Saiba mais sobre mim acessando minhas Redes!
+## Saiba mais sobre mim acessando minhas Redes!
 <div>
 <a href="https://www.youtube.com/nerdkingteam" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/brunoholandaa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -15,7 +15,7 @@
 <a href="https://www.linkedin.com/in/bruno-holanda-70764364/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-# Habilidades:
+## Habilidades:
 :spades: JavaScript<br>
 :spades: HTML/CSS<br>
 :spades: FlexBox<br>
