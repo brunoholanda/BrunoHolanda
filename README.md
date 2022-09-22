@@ -1,4 +1,4 @@
-# Olá, seja bem vindo ao meu GitHub :rocket:
+<h1 align="center"> Olá, seja bem vindo ao meu GitHub :rocket: </p>
 
 #### <p align="center">:man: Me chamo Bruno e sou estudante de Análise e Desenvolvimento de Sistemas buscando me especializar através de cursos de Programação complementares da ALURA e com foco em desenvolvimento FrontEnd. Atualmentee venho buscando uma oportunidade de trabalhar como desenvolvedor e estou me aperfeiçoando a todo momento, para que eu possa  oferecer eficiência e profisionalismo para minha futura equipe :bulb:  </p>
 
