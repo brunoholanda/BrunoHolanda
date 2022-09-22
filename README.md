@@ -1,6 +1,6 @@
 ### Olá, seja bem vindo ao meu GitHub :rocket:
 
-:man: Me chamo Bruno e sou estudante de Análise e Desenvolvimento de Sistemas buscando me especializar através de cursos de Programação complementares da ALURA e com foco em desenvolvimento FrontEnd. Atualmentee venho buscando uma oportunidade de trabalhar como desenvolvedor e estou me aperfeiçoando a todo momento, para que eu possa  oferecer eficiência e profisionalismo para minha futura equipe :bulb:  
+:man: Me chamo Bruno e sou estudante de Análise e Desenvolvimento de Sistemas, buscando me especializar através de cursos de Programação complementares da ALURA com foco em desenvolvimento FrontEnd. Atualmentee venho buscando uma oportunidade de trabalhar como desenvolvedor e estou me aperfeiçoando a todo momento, para que eu possa  oferecer eficiência e profisionalismo para minha futura equipe :bulb:  
 
 💻 No momento, estou me aprimorando.<br>
 📚 Estou aprendendo React.JS / Node.JS / JAVA <br>
