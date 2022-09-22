@@ -21,3 +21,9 @@
 :spades: FlexBox<br>
 :spades: Arquitetura HTML e CSS<br>
 :spades: WordPress<br>
+
+<div>
+<a href="https://github.com/brunoholanda">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoholanda&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunoholanda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
