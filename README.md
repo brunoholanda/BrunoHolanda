@@ -3,7 +3,7 @@
 #### <p align="center">:man: Me chamo Bruno e sou estudante de Análise e Desenvolvimento de Sistemas buscando me especializar através de cursos de Programação complementares da ALURA, com foco em desenvolvimento FrontEnd. Atualmentee venho buscando uma oportunidade de trabalhar como desenvolvedor e estou me aperfeiçoando, para que eu possa  oferecer eficiência e profisionalismo para minha futura equipe :bulb:  </p>
 
 💻 No momento, Procurando uma Vaga de DEV Junior.<br>
-📚 Estou aprendendo React.JS / Node.JS / JAVA <br>
+📚 Estou aprendendo React.JS / Node.JS / Java Script <br>
 🤝 Busco dicas e ajuda para melhorar meus códigos, projetos e melhor me desenvolver<br>
 💯 Disposto à troca de conhecimentos<br>
 
