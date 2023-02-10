@@ -21,7 +21,7 @@
 :spades: JavaScript<br>
 :spades: HTML/CSS<br>
 :spades: FlexBox<br>
-:spades: Arquitetura HTML e CSS<br>
+:spades: React-js<br>
 :spades: WordPress<br>
 
 <div>
