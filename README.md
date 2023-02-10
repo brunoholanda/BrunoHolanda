@@ -1,8 +1,10 @@
 <h1 align="center"> Olá, seja bem vindo ao meu GitHub :rocket: </p>
 
-#### <p align="center">:man: Me chamo Bruno e sou estudante de Análise e Desenvolvimento de Sistemas buscando me especializar através de cursos de Programação complementares da ALURA, com foco em desenvolvimento FrontEnd. Atualmentee venho buscando uma oportunidade de trabalhar como desenvolvedor e estou me aperfeiçoando, para que eu possa  oferecer eficiência e profisionalismo para minha futura equipe :bulb:  </p>
+#### <p align="center">:man: Me chamo Bruno Desenvolvedor Front-End React codando páginas Mobile First com responsividade, aplicando SASS e Javascript, foco em entrega rápida, qualidade e ótimas funcionalidades. Estou inserido no mercado de trabalho como bancário desde 2010, no entanto. atuo em paralelo na área de TI com a criação de projetos pessoais, para amigos e empresas próximas, que você pode conferir no meu canal no Youtube ou no meu site pessoal de longa data, o www.nerdking.net.br. Aprendo rapido, me comunico bem tenho experiencia com pessoas, criacao de conteudo e criatividade!
 
-💻 No momento, Procurando uma Vaga de DEV Junior.<br>
+ :bulb:  </p>
+
+💻 No momento, Procurando minha Vaga de DEV.<br>
 📚 Estou aprendendo React.JS / Node.JS / Java Script <br>
 🤝 Busco dicas e ajuda para melhorar meus códigos, projetos e melhor me desenvolver<br>
 💯 Disposto à troca de conhecimentos<br>
