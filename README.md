@@ -15,13 +15,19 @@
 <a href="https://www.youtube.com/nerdkingteam" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
 
+#### Principais Projetos com repositorio público:
+
+CursosTechBR: https://cursos-tech-br.vercel.app/
+Barbearia: https://vieira-barbearia-job-95e3.vercel.app/
+Restaurante: https://restaurante-rho.vercel.app/
+Imobiliaria: https://imobiliaria-orpin.vercel.app/
+
 ## Habilidades:
 :spades: React.js<br>
 :spades: JavaScript<br>
 :spades: SASS<br>
 :spades: HTML/CSS<br>
 :spades: FlexBox<br>
-
 :spades: WordPress<br>
 
 <div>
