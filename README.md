@@ -4,7 +4,7 @@
 
  :bulb:  </p>
 
-💻 No momento, Desenvolvendo projetos<br>
+💻 No momento, Desenvolvendo projetos como PJ para Elevaty Pagamentos<br>
 📚 Estou fazendo projetos com React.JS / Node.JS / Java Script <br>
 
 #### Principais Projetos com repositorio público:<br><br>
