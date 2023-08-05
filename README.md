@@ -9,6 +9,8 @@
 
 #### Principais Projetos com repositorio público:<br><br>
 
+Dentista: https://waleskacaetano.com.br/<br>
+Amor E Vida: https://amorevida.org/<br>
 CursosTechBR: https://cursos-tech-br.vercel.app/<br>
 Barbearia: https://vieira-barbearia-job-95e3.vercel.app/<br>
 Restaurante: https://restaurante-rho.vercel.app/<br>
