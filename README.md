@@ -4,7 +4,7 @@
 
  :bulb:  </p>
 
-💻 No momento, Desenvlvedor FullStack na Elevaty Pagamentos<br>
+💻 No momento, Desenvolvedor FullStack na Elevaty Pagamentos<br>
 📚 Estou fazendo projetos com React.JS / Node.JS / Java Script <br>
 
 #### Principais Projetos com repositorio público:<br><br>
