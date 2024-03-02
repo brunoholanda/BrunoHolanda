@@ -4,12 +4,13 @@
 
  :bulb:  </p>
 
-💻 No momento, Desenvolvendo projetos como PJ para Elevaty Pagamentos<br>
+💻 No momento, Desenvlvedor FullStack na Elevaty Pagamentos<br>
 📚 Estou fazendo projetos com React.JS / Node.JS / Java Script <br>
 
 #### Principais Projetos com repositorio público:<br><br>
 
 Dentista: https://waleskacaetano.com.br/<br>
+Sistema de Agendamentos: https://marquei.com.br/<br>
 Amor E Vida: https://amorevida.org/<br>
 CursosTechBR: https://cursos-tech-br.vercel.app/<br>
 Barbearia: https://vieira-barbearia-job-95e3.vercel.app/<br>
