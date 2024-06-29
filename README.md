@@ -1,6 +1,6 @@
 <h1 align="center"> Olá, seja bem vindo ao meu GitHub :rocket: </p>
 
-#### <p align="center">:man: Me chamo Bruno Desenvolvedor Front-End React codando páginas Mobile First com responsividade, aplicando SASS e Javascript, foco em entrega rápida, qualidade e ótimas funcionalidades. Estou inserido no mercado de trabalho como bancário desde 2010 e também atuo na área de desenvolvimento como PJ em contrato com a Elevaty Soluções em pagamentos...
+#### <p align="center">:man: Me chamo Bruno Desenvolvedor FullStack codando páginas Mobile First com responsividade, aplicando SASS e Javascript, foco em entrega rápida, qualidade e ótimas funcionalidades. Estou inserido no mercado de trabalho como bancário desde 2010 e também atuo na área de desenvolvimento como PJ em contrato com a Elevaty Soluções em pagamentos...
 
  :bulb:  </p>
 
