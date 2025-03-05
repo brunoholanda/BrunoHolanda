@@ -1,13 +1,13 @@
 <h1 align="center"> Hi, Welcome to my GitHub :rocket: </p>
 
-#### <p align="center">:man: Fullstack developer with 5 years of experience passionate about creating innovative solutions.
-Currently working at Elevaty, a branch of Dock's holding company, where I am responsible for
-developing fullstack applications for the company's offered solutions. In addition to Elevaty, I built
-Marquei, a scheduling and management system for clinics. My journey in technology began early. At 16,
-I automated my parents' house using Arduino and C programming. This passion for development led
-to create various projects, such as home automation applications sold online, including an app to
-control the gate motor via Wi-Fi and a smart mirror programmed in Python that was featured in the
-local newspaper.
+#### <p align="center">👨‍💻 Fullstack Developer | SaaS & System Architecture</p>
+With over 5 years of experience in software development, I specialize in building and leading fullstack solutions that drive efficiency and scalability. Currently, I work at Elevaty (a branch of Dock's holding company), where I lead projects focused on processing and sending invoices at scale.
+
+Beyond my work at Elevaty, I spearheaded the development of Marquei, a SaaS platform designed for scheduling and managing clinic appointments. I have also led private projects involving complex system integrations and backend optimizations.
+
+My passion for technology started early—at 16, I automated my parents' house using Arduino and C. Since then, I’ve built and sold home automation applications, including a Wi-Fi-controlled gate motor and a smart mirror programmed in Python that gained industry recognition.
+
+I am always looking for innovative challenges, whether designing scalable architectures, optimizing databases, or creating seamless user experiences.
 
  :bulb:  </p>
 
