@@ -1,4 +1,4 @@
-<h1 align="center"> Olá, seja bem vindo ao meu GitHub :rocket: </p>
+<h1 align="center"> Hi, Welcome to my GitHub :rocket: </p>
 
 #### <p align="center">:man: Fullstack developer with 5 years of experience passionate about creating innovative solutions.
 Currently working at Elevaty, a branch of Dock's holding company, where I am responsible for
