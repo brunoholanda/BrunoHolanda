@@ -11,8 +11,8 @@ local newspaper.
 
  :bulb:  </p>
 
-💻 No momento, Desenvolvedor FullStack na Elevaty Pagamentos<br>
-📚 Estou fazendo projetos com React.JS / Node.JS / NestJS / Java Script / AWS <br>
+💻 FullStack developer at Elevaty Payments and invoice Processing<br>
+📚 I use in my projects: React.JS / Node.JS / NestJS / Java Script / AWS <br>
 
 #### Principais Projetos com repositorio público:<br><br>
 
